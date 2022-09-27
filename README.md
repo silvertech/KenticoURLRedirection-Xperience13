@@ -28,9 +28,9 @@ The Kentico URL Redirection module contains one class, **Redirection**, that is 
 | Field Name  | Data Type | Form Control | Descrpiton |
 |--|--|--|--|
 | RedirectionTableID | Integer | N/A (Not Editable) | Unique ID of the redirection item |
-| RedirectionOriginalURL | Text (2000) | Text Box | URL Alias that will be redirected. Ex: **/original-url** |
-| RedirectionTargetURL | Text (2000) | URL Selector | Internal alias or External URL that the Original URL field will be redirected to. Ex: **/target-url** Ex: **https://www.external-domain.com** |
-| RedirectionDescription | Long Text | Text Area | A field that allows a content editor to describe a redirect or enter the purpose of a redirect |
+| RedirectionOriginalUrl | Text (2000) | Text Box | URL Alias that will be redirected. Ex: **/original-url** |
+| RedirectionTargetUrl | Text (2000) | URL Selector | Internal alias or External URL that the Original URL field will be redirected to. Ex: **/target-url** Ex: **https://www.external-domain.com** |
+| RedirectionComment | Long Text | Text Area | A field that allows a content editor to describe a redirect or enter the purpose of a redirect |
 | RedirectionSiteID | Integer | Site Selector | Drop down list that allows a user to specify which site the redirect is for. Default is the current site the user is on. |
 | RedirectionType | Text (3) | Drop Down List | Allows the user to specify if the redirect is a 301 or 302 redirect. |
 
