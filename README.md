@@ -3,8 +3,8 @@
 This module adds an interface in the CMS to allow a user to edit and manage URL Redirects in one place. The module supports multi-site instances. The latest version of this module is Version 13.0.4. The source code for this module is included in this repo if you wish to clone and modify it anyway you see fit. 
 
 ## Compatibility
- **- Compatible with .NET Core MVC sites ONLY**
-   - This module has been developed with .NET Core in mind; It is not supported on MVC 5 versions of Xperience 13
+ ** - Compatible with .NET Core MVC sites ONLY**
+ - This module has been developed with .NET Core in mind; It is not supported on MVC 5 versions of Xperience 13
  - Xperience version 13.0.73 or greater 	
 
 ## Installation Instructions
